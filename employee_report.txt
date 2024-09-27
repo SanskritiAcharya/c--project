@@ -1,0 +1,8 @@
+
+Employee ID: 1
+Name: sans
+Employee Type: Full-Time
+Salary: Rs.33786.7
+Attendance: 28
+Performance Rating: 4
+---------------------------------
